@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "تميّزي بسلوكي",
+  "short_name": "تميّزي بسلوكي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#075b58",
+  "background_color": "#e1f3ee",
+  "icons": [
+    { "src": "./icons/program-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/program-icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
